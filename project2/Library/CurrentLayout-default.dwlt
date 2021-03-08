@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 58
+  controlID: 136
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -371,14 +371,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\unityfiles\github\p1_lab\AR-Lab1
+  m_LastProjectPath: D:\Project 2\Project-2\AR-Lab1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 60390100
-    m_LastClickedID: 80224
-    m_ExpandedIDs: 00000000603901006239010064390100663901006839010000ca9a3b
+    m_SelectedIDs: b0380100
+    m_LastClickedID: 80048
+    m_ExpandedIDs: 00000000b0380100b2380100b4380100b6380100b838010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +406,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006039010062390100643901006639010068390100
+    m_ExpandedIDs: 00000000b0380100b2380100b4380100b6380100b8380100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,9 +529,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 483a0000
-      m_LastClickedID: 14920
-      m_ExpandedIDs: 3afbffffe438000084390000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 3afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -641,11 +641,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.15277025, y: 0.8451277, z: -0.39305457, w: 0.3285905}
     speed: 2
-    m_Value: {x: 0.15286145, y: 0.84520394, z: -0.39154914, w: 0.33008036}
+    m_Value: {x: 0.15277025, y: 0.84512776, z: -0.3930546, w: 0.3285905}
   m_Size:
     m_Target: 23.29517
     speed: 2
-    m_Value: 24.392847
+    m_Value: 23.29517
   m_Ortho:
     m_Target: 0
     speed: 2
